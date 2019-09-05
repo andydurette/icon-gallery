@@ -11,123 +11,123 @@ const App = () => (
     </header>
     <Lightbox images={ [
       {
-        src: 'images/xxxlarge/camera.svg',
+        src: 'images/xlarge/camera.svg',
         title: 'Camera',
       },
       {
-        src: 'images/xxxlarge/eggs-benedict.jpg',
+        src: 'images/xlarge/eggs-benedict.jpg',
         title: 'Eggs Benedict',
       },
       {
-        src: 'images/xxxlarge/glasses.jpg',
+        src: 'images/xlarge/glasses.jpg',
         title: 'Full Rim Glasses',
       },
       {
-        src: 'images/xxxlarge/bluejay.jpg',
+        src: 'images/xlarge/bluejay.jpg',
         title: 'Blue Jay',
       },
       {
-        src: 'images/xxxlarge/business-bag.jpg',
+        src: 'images/xlarge/business-bag.jpg',
         title: 'Business Bag',
       },
       {
-        src: 'images/xxxlarge/violin.jpg',
+        src: 'images/xlarge/violin.jpg',
         title: 'Violin',
       },
       {
-        src: 'images/xxxlarge/nigiri.jpg',
+        src: 'images/xlarge/nigiri.jpg',
         title: 'Nigiri',
       },
       {
-        src: 'images/xxxlarge/milk.jpg',
+        src: 'images/xlarge/milk.jpg',
         title: 'Milk',
       },
       {
-        src: 'images/xxxlarge/television.jpg',
+        src: 'images/xlarge/television.jpg',
         title: 'Television',
       },
       {
-        src: 'images/xxxlarge/pancakes.svg',
+        src: 'images/xlarge/pancakes.svg',
         title: 'Pancakes',
       },
       {
-        src: 'images/xxxlarge/california-roll.jpg',
+        src: 'images/xlarge/california-roll.jpg',
         title: 'California Roll',
       },
       {
-        src: 'images/xxxlarge/softserve.svg',
+        src: 'images/xlarge/softserve.svg',
         title: 'Soft Serve',
       },
       {
-        src: 'images/xxxlarge/blender.jpg',
+        src: 'images/xlarge/blender.jpg',
         title: 'Blender',
       },
       {
-        src: 'images/xxxlarge/tardis.svg',
+        src: 'images/xlarge/tardis.svg',
         title: 'Tardis',
       },
       {
-        src: 'images/xxxlarge/ps4-controller.jpg',
+        src: 'images/xlarge/ps4-controller.jpg',
         title: 'PS4 Controller',
       },
       {
-        src: 'images/xxxlarge/liberty-bell.jpg',
+        src: 'images/xlarge/liberty-bell.jpg',
         title: 'Liberty Bell',
       },
       {
-        src: 'images/xxxlarge/satellite.jpg',
+        src: 'images/xlarge/satellite.jpg',
         title: 'Satellite',
       },
       {
-        src: 'images/xxxlarge/chess-queen.jpg',
+        src: 'images/xlarge/chess-queen.svg',
         title: 'Chess Queens',
       },
       {
-        src: 'images/xxxlarge/cast-iron-pan.svg',
+        src: 'images/xlarge/cast-iron-pan.svg',
         title: 'Cast Iron Pan',
       },
       {
-        src: 'images/xxxlarge/cell-phone.jpg',
+        src: 'images/xlarge/cell-phone.jpg',
         title: 'Cell Phone',
       },
       {
-        src: 'images/xxxlarge/mixer.svg',
+        src: 'images/xlarge/mixer.svg',
         title: 'Mixer',
       },
       {
-        src: 'images/xxxlarge/headphones.svg',
+        src: 'images/xlarge/headphones.svg',
         title: 'Headphone',
       },
       {
-        src: 'images/xxxlarge/lightbulb.svg',
+        src: 'images/xlarge/lightbulb.svg',
         title: 'Lightbulb',
       },
       {
-        src: 'images/xxxlarge/taco.svg',
+        src: 'images/xlarge/taco.svg',
         title: 'Taco',
       },
       {
-        src: 'images/xxxlarge/pinwheels.svg',
+        src: 'images/xlarge/pinwheels.svg',
         title: 'Pin Wheels',
       },
       {
-        src: 'images/xxxlarge/moon-and-stars.svg',
+        src: 'images/xlarge/moon-and-stars.svg',
         title: 'Pin Wheels',
       },
       {
-        src: 'images/xxxlarge/tie-fighter.svg',
+        src: 'images/xlarge/tie-fighter.svg',
         title: 'Tie Fighter',
       },
       {
-        src: 'images/xxxlarge/bowler-hat.svg',
+        src: 'images/xlarge/bowler-hat.svg',
         title: 'Bowler Hat',
       },
       {
-        src: 'images/xxxlarge/ramen.svg',
+        src: 'images/xlarge/ramen.svg',
         title: 'Ramen',
       },
       {
-        src: 'images/xxxlarge/raven.svg',
+        src: 'images/xlarge/raven.svg',
         title: 'Raven',
       },
       
