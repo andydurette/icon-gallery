@@ -65,7 +65,7 @@ body{
 }
 
 header{
-  margin-bottom:50px;
+  margin-bottom:40px;
 }
 
 
@@ -82,9 +82,11 @@ header h1{
 header p{
   display: block;
   font-size: 20px;
+  line-height: 20px;
   font-weight: 300;
-  line-height: 38px;
+  line-height: 30px;
   margin: 0 20px;
+  margin-top: 25px;
   text-align: center;
 }
 
