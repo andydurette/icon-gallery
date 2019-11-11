@@ -1,10 +1,10 @@
-# Order Management Site Made with React
+# Icon Display Site Made With React
 
 A react site utilizing and modifying the react-lightbox-component to display my illustrations.
 
 Live Link:  https://icon-gallery.netlify.com/ 
 
-![markdown-image](C:/Users/Andy/Documents/code/4. React/Self-Builds/icon-gallery/public/images/markdown-image.png)
+![markdown-image](public/images/markdown-image.png)
 
 
 
