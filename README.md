@@ -2,7 +2,7 @@
 
 A react site utilizing and modifying a react-lightbox-component to display my illustrations.
 
-Live Link:  https://icon-gallery.netlify.com/ 
+Live Link:  https://icon-gallery.netlify.com/ <br/>
 React Gallery: https://reactjsexample.com/an-image-lightbox-component-for-reactjs/
 
 ![markdown-image](public/images/markdown-image.png)
